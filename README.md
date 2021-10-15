@@ -12,3 +12,5 @@ Write Up:   Write Up - Data Engineering (docx)
 Presentation: NBA-Stats-Dashboard (pptx)
 
 Code: data_engineering_notebook (ipynb) ---- Myapp (py) for Streamlit web application
+
+Data: full_nba_data (db)
